@@ -4,7 +4,7 @@
 # 📝 Instrucciones:
 
 1. Crea una función llamada sumOdds que sume todos los números impares en la variable "arr".
-2. Devuleve e imprime el resultado.
+2. Devuelve e imprime el resultado.
 
 # Para hacer el ejercicio, considera:
 
